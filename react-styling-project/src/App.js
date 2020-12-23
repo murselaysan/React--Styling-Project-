@@ -6,6 +6,7 @@ const divStyle = {
   background: styleSheet.background
 };
 
+
 export class App extends React.Component {
   render() {
     return (
